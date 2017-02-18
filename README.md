@@ -1,0 +1,1 @@
+Machine vision school project using OpenCV library
